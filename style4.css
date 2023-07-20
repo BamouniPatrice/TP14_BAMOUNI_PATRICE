@@ -1,0 +1,65 @@
+.container
+{
+  background-color: violet;
+  height: 1000%;
+  width: 100%;
+}
+.row
+{
+  text-align: center;
+  display: flex;
+}
+.row h3 
+{
+  font-size: 50px;
+}
+.row h1
+{
+  font-size: 50px;
+}
+.row1
+{
+  display: flex;
+  padding-top: 50px;
+}
+.col
+{
+text-align: center;
+}
+.icon
+{
+  display: flex;
+  width: 50%;
+}
+.row2
+{
+  display: flex;
+}
+.row0 i
+{
+margin-right: 100px;
+}
+.row3
+{
+  display: flex;
+}
+.row3 h2
+{
+  text-align: center;
+}
+.container3 p
+{
+  text-align: center;
+}
+.footer 
+{ 
+  background-color: grey;
+}
+.container a
+{
+  color: white;
+  padding-right: 25px;
+  font-size: 25px;
+}
+
+  

@@ -1,0 +1,14 @@
+@import url('https://font.googleapis.com/css2?family=montserrat&display=swap');
+@import url('https://font.googleapis.com/css2?family=playfair+display:wght@600&display')
+body:{
+    margin:0;
+    padding:0;
+    font-family: 'Montserrat',sans-serif;
+
+}
+nav{
+    display:flex;
+flex-wrap:wrap
+justify-content:center;
+align-items:center;
+}
